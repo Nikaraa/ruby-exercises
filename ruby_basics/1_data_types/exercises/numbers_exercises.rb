@@ -38,7 +38,7 @@ def even?(number)
   # return true if the number is even (hint: use integer's even? method)
 end
 
-def odd?(number)
+def odd?(number)c
   number.odd?
   # return true if the number is odd (hint: use integer's odd? method)
 end
